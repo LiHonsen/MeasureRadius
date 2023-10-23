@@ -1,0 +1,34 @@
+C:\Users\Administrator\Desktop\新建文件夹\05_测量半径\obj\Debug\05_测量半径.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹\05_测量半径\obj\Debug\05_测量半径.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\新建文件夹\05_测量半径\bin\Debug\05_测量半径.exe.config
+C:\Users\Administrator\Desktop\新建文件夹\05_测量半径\bin\Debug\05_测量半径.exe
+C:\Users\Administrator\Desktop\新建文件夹\05_测量半径\bin\Debug\05_测量半径.pdb
+C:\Users\Administrator\Desktop\新建文件夹\05_测量半径\bin\Debug\halcondotnet.dll
+C:\Users\Administrator\Desktop\新建文件夹\05_测量半径\bin\Debug\halcondotnet.xml
+C:\Users\Administrator\Desktop\新建文件夹\05_测量半径\obj\Debug\05_测量半径.csproj.CopyComplete
+C:\Users\Administrator\Desktop\新建文件夹\05_测量半径\obj\Debug\05_测量半径.exe
+C:\Users\Administrator\Desktop\新建文件夹\05_测量半径\obj\Debug\05_测量半径.pdb
+D:\练习例程\05_测量半径\05_测量半径\bin\Debug\05_测量半径.exe.config
+D:\练习例程\05_测量半径\05_测量半径\bin\Debug\05_测量半径.exe
+D:\练习例程\05_测量半径\05_测量半径\bin\Debug\05_测量半径.pdb
+D:\练习例程\05_测量半径\05_测量半径\bin\Debug\halcondotnet.xml
+D:\练习例程\05_测量半径\05_测量半径\obj\Debug\05_测量半径.csprojAssemblyReference.cache
+D:\练习例程\05_测量半径\05_测量半径\obj\Debug\05_测量半径.csproj.CoreCompileInputs.cache
+D:\练习例程\05_测量半径\05_测量半径\obj\Debug\05_测量半径.csproj.CopyComplete
+D:\练习例程\05_测量半径\05_测量半径\obj\Debug\05_测量半径.exe
+D:\练习例程\05_测量半径\05_测量半径\obj\Debug\05_测量半径.pdb
+D:\练习例程\05_测量半径\05_测量半径\obj\Debug\_05_测量半径.FrmMain.resources
+D:\练习例程\05_测量半径\05_测量半径\obj\Debug\05_测量半径.csproj.GenerateResource.cache
+D:\练习例程\05_测量半径\05_测量半径\obj\Debug\05_测量半径.csproj.AssemblyReference.cache
+D:\练习例程\05_测量半径 - 副本\05_测量半径\bin\Debug\05_测量半径.exe.config
+D:\练习例程\05_测量半径 - 副本\05_测量半径\bin\Debug\05_测量半径.exe
+D:\练习例程\05_测量半径 - 副本\05_测量半径\bin\Debug\05_测量半径.pdb
+D:\练习例程\05_测量半径 - 副本\05_测量半径\bin\Debug\halcondotnet.dll
+D:\练习例程\05_测量半径 - 副本\05_测量半径\bin\Debug\halcondotnet.xml
+D:\练习例程\05_测量半径 - 副本\05_测量半径\obj\Debug\05_测量半径.csprojAssemblyReference.cache
+D:\练习例程\05_测量半径 - 副本\05_测量半径\obj\Debug\_05_测量半径.FrmMain.resources
+D:\练习例程\05_测量半径 - 副本\05_测量半径\obj\Debug\05_测量半径.csproj.GenerateResource.cache
+D:\练习例程\05_测量半径 - 副本\05_测量半径\obj\Debug\05_测量半径.csproj.CoreCompileInputs.cache
+D:\练习例程\05_测量半径 - 副本\05_测量半径\obj\Debug\05_测量半径.csproj.CopyComplete
+D:\练习例程\05_测量半径 - 副本\05_测量半径\obj\Debug\05_测量半径.exe
+D:\练习例程\05_测量半径 - 副本\05_测量半径\obj\Debug\05_测量半径.pdb
